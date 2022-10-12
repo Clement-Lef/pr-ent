@@ -1,5 +1,7 @@
 # Code & Data for the paper "Rethinking the Event Coding Pipeline with Prompt Entailment"
 
+Paper link: https://arxiv.org/abs/2210.05257
+
 ## Installation
 We use `python 3.9.7` and all necessary libraries can be found in the `requirements.txt` file.
 
