@@ -1,0 +1,10 @@
+# see environments.yml
+numpy==1.23.2
+pandas==1.4.2
+spacy==3.2.3
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.2.0/en_core_web_lg-3.2.0-py3-none-any.whl
+transformers[torch]==4.22.1
+# nltk==3.7
+streamlit==1.10.0
+streamlit-aggrid==0.2.3.post2
+inflect==6.0.0

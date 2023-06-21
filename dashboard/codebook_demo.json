@@ -1,0 +1,108 @@
+{
+   "events": {
+      "Arrest": {
+         "all": [],
+         "any": [
+            "People were arrested."
+         ],
+         "not": {},
+         "not_any": [],
+         "not_all": [],
+         "all_any_rel": "OR",
+         "not_all_any_rel": "OR"
+      },
+      "Destruction": {
+         "all": [],
+         "any": [
+            "This event involves arson."
+         ],
+         "not": {},
+         "not_any": [],
+         "not_all": [],
+         "all_any_rel": "OR",
+         "not_all_any_rel": "OR"
+      },
+      "Killing": {
+         "all": [],
+         "any": [
+            "This event involves killing."
+         ],
+         "not": {},
+         "not_any": [],
+         "not_all": [],
+         "all_any_rel": "OR",
+         "not_all_any_rel": "OR"
+      },
+      "Looting": {
+         "all": [],
+         "any": [],
+         "not": {},
+         "not_any": [],
+         "not_all": [],
+         "all_any_rel": "OR",
+         "not_all_any_rel": "OR"
+      },
+      "Other": {
+         "all": [],
+         "any": [],
+         "not": {},
+         "not_any": [],
+         "not_all": [],
+         "all_any_rel": "OR",
+         "not_all_any_rel": "OR"
+      },
+      "Explosions": {
+         "all": [],
+         "any": [
+            "This event involves explosive."
+         ],
+         "not": {},
+         "not_any": [],
+         "not_all": [],
+         "all_any_rel": "OR",
+         "not_all_any_rel": "OR"
+      },
+      "Kidnapping": {
+         "all": [],
+         "any": [
+            "People were kidnapped.",
+            "This event involves kidnapping."
+         ],
+         "not": {},
+         "not_any": [],
+         "not_all": [],
+         "all_any_rel": "OR",
+         "not_all_any_rel": "OR"
+      },
+      "Sexual Violence": {
+         "all": [],
+         "any": [
+            "This event involves rape.",
+            "People were abused."
+         ],
+         "not": {},
+         "not_any": [],
+         "not_all": [],
+         "all_any_rel": "OR",
+         "not_all_any_rel": "OR"
+      },
+      "Protests": {
+         "all": [],
+         "any": [
+            "This event involves protest.",
+            "This event involves demonstration.",
+            "This event involves protester."
+         ],
+         "not": {},
+         "not_any": [],
+         "not_all": [],
+         "all_any_rel": "OR",
+         "not_all_any_rel": "OR"
+      }
+   },
+   "templates": [
+      "This event involves [Z].",
+      "People were [Z]."
+   ],
+   "add_words": []
+}

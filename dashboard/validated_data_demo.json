@@ -1,0 +1,235 @@
+{
+   "26": {
+      "text": "Peacekeepers allegedly carried out sexual abuse on civilians.",
+      "templates": [
+         "This event involves [Z].",
+         "People were [Z]."
+      ],
+      "additional_words": [],
+      "event_types": [
+         "Sexual Violence"
+      ],
+      "filled_templates": [
+         "This event involves abuse.",
+         "This event involves assault.",
+         "This event involves civilian.",
+         "This event involves sex.",
+         "People were abused.",
+         "People were assaulted.",
+         "People were attacked.",
+         "People were harassed.",
+         "People were harmed."
+      ],
+      "decision": "Accept",
+      "prent_params": [
+         30,
+         0.9
+      ]
+   },
+   "3": {
+      "text": "On 23 August, a group attacked a village, abducting 6 people.",
+      "templates": [
+         "This event involves [Z].",
+         "People were [Z]."
+      ],
+      "additional_words": [],
+      "event_types": [
+         "Kidnapping"
+      ],
+      "filled_templates": [
+         "This event involves assault.",
+         "This event involves fighting.",
+         "This event involves kidnapping.",
+         "This event involves violence.",
+         "People were abducted.",
+         "People were attacked.",
+         "People were captured.",
+         "People were detained.",
+         "People were kidnapped."
+      ],
+      "decision": "Accept",
+      "prent_params": [
+         30,
+         0.9
+      ]
+   },
+   "30": {
+      "text": "On 25 February 2021, terrorist militants threw a hand grenade at a house. Two soldiers were injured in the explosion.",
+      "templates": [
+         "This event involves [Z].",
+         "People were [Z]."
+      ],
+      "additional_words": [],
+      "event_types": [
+         "Explosions"
+      ],
+      "filled_templates": [
+         "This event involves bomb.",
+         "This event involves bombing.",
+         "This event involves explosion.",
+         "This event involves explosive.",
+         "This event involves grenade.",
+         "This event involves terrorism.",
+         "This event involves terrorist.",
+         "This event involves violence.",
+         "People were affected.",
+         "People were harmed.",
+         "People were hurt.",
+         "People were injured.",
+         "People were wounded."
+      ],
+      "decision": "Accept",
+      "prent_params": [
+         30,
+         0.9
+      ]
+   },
+   "33": {
+      "text": "On 13 November, a cart was struck by an IED about 3km north, one civilian was killed and another severely wounded, the two donkeys that pulled the cart were also killed. The IED was most likely planted by terrorist militants.",
+      "templates": [
+         "This event involves [Z].",
+         "People were [Z]."
+      ],
+      "additional_words": [],
+      "event_types": [
+         "Killing",
+         "Explosions"
+      ],
+      "filled_templates": [
+         "This event involves bomb.",
+         "This event involves bombing.",
+         "This event involves civilian.",
+         "This event involves explosion.",
+         "This event involves explosive.",
+         "This event involves fatality.",
+         "This event involves killing.",
+         "This event involves militant.",
+         "This event involves terrorism.",
+         "This event involves terrorist.",
+         "This event involves violence.",
+         "People were affected.",
+         "People were attacked.",
+         "People were dead.",
+         "People were harmed.",
+         "People were hit.",
+         "People were hurt.",
+         "People were injured.",
+         "People were involved.",
+         "People were killed.",
+         "People were murdered.",
+         "People were wounded."
+      ],
+      "decision": "Accept",
+      "prent_params": [
+         30,
+         0.9
+      ]
+   },
+   "20": {
+      "text": "On 3 December, at least 12 illegal checkpoints were erected by unknown troops. The soldiers reportedly extort money from travelers.",
+      "templates": [
+         "This event involves [Z].",
+         "People were [Z]."
+      ],
+      "additional_words": [],
+      "event_types": [],
+      "filled_templates": [
+         "This event involves bribery.",
+         "This event involves fraud.",
+         "This event involves robbery.",
+         "This event involves tourist.",
+         "This event involves traveling.",
+         "People were affected."
+      ],
+      "decision": "Ignore",
+      "prent_params": [
+         30,
+         0.9
+      ]
+   },
+   "29": {
+      "text": "Grenade explodes, killing 2 - affiliated to ruling party",
+      "templates": [
+         "This event involves [Z].",
+         "People were [Z]."
+      ],
+      "additional_words": [],
+      "event_types": [
+         "Killing",
+         "Explosions"
+      ],
+      "filled_templates": [
+         "This event involves bomb.",
+         "This event involves bombing.",
+         "This event involves death.",
+         "This event involves explosion.",
+         "This event involves explosive.",
+         "This event involves grenade.",
+         "This event involves gunfire.",
+         "This event involves killing.",
+         "This event involves murder.",
+         "This event involves shooting.",
+         "This event involves violence.",
+         "People were affected.",
+         "People were dead.",
+         "People were killed.",
+         "People were murdered.",
+         "People were slaughtered."
+      ],
+      "decision": "Accept",
+      "prent_params": [
+         30,
+         0.9
+      ]
+   },
+   "18": {
+      "text": "On 12 November 2019, unknown individuals set ablaze a half hectare of soja harvest.",
+      "templates": [
+         "This event involves [Z].",
+         "People were [Z]."
+      ],
+      "additional_words": [],
+      "event_types": [
+         "Destruction"
+      ],
+      "filled_templates": [
+         "This event involves arson.",
+         "This event involves burning.",
+         "This event involves destruction.",
+         "This event involves explosion.",
+         "This event involves fire.",
+         "This event involves violence."
+      ],
+      "decision": "Accept",
+      "prent_params": [
+         30,
+         0.9
+      ]
+   },
+   "5": {
+      "text": "Mass demonstrations honoring the bravery of Revolution martyrs.",
+      "templates": [
+         "This event involves [Z].",
+         "People were [Z]."
+      ],
+      "additional_words": [],
+      "event_types": [
+         "Protests"
+      ],
+      "filled_templates": [
+         "This event involves demonstration.",
+         "This event involves march.",
+         "This event involves mas.",
+         "This event involves participation.",
+         "This event involves protest.",
+         "People were gathered.",
+         "People were mobilized.",
+         "People were protesting."
+      ],
+      "decision": "Accept",
+      "prent_params": [
+         30,
+         0.9
+      ]
+   }
+}
